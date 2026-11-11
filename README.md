@@ -12,7 +12,7 @@ This was the most confusion and complex part of this project. The original Human
 
 DATA CLEANING
 
-Once I had the dataset I wanted to use, which was "hd", I cleaned that data. I made sure there was no duplicated values, and found that there were some missing values. While I could have imputed those missing values, I didn't think of doing that just yet. I 
+Once I had the dataset I wanted to use, which was "hd", I cleaned that data. I made sure there was no duplicated values, and found that there were some missing values. While I could have imputed those missing values, I didn't think of doing that just yet. But once I looked at how many things were missing 
 
 STATISTICAL ANALYSIS
 
