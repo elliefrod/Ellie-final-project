@@ -2,6 +2,8 @@ Ellie-final-project
 
 This is my README file for my final project!
 
+Here is my code book and ideas file: https://docs.google.com/document/d/1ymD6cJPzQpZpu8MSTasyxakK_bkVeMnDleQSNxOEli4/edit?usp=sharing
+
 I decided to do a data analysis of the Human Development Index dataset from Kaggle. This means a lot to me because I graduated in Human Development at BYU. I did so many studies when I was a student there about the different aspects of Human Development. When I found this dataset, I thought it was the perfect use of my knowledge and to learn more about Human Development on a larger scale. 
 
 The main limitation with the data I found was that it was only from 1990 to 2021. So I would have loved to evaluate more of that data from 2021 to 2026, but I worked with what I had. The order in which I did my project was actually data manipulation, data cleaning, statistical analysis, and visualizations. But in the end, I also combined the statistical analysis with visualizations anyway. 
