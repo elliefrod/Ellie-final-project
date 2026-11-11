@@ -24,13 +24,13 @@ DATA VIZUALIZATIONS
 
 For statistical analysis and visualizations, I formatted my understanding into 5 categories: 
 
-1. Human Development Index (HDI) over time 
+1. Human Development Index (HDI) Over Time 
 
 I tried to look at different aspects of changed from HDI over time. For example, I made histograms of the ranks of HDI in 1990 and 2021. I also looked at the change in HDI over time. Additionally I examined the best and worst regions for HDI in 1990 and 2021. Here is a histogram of HDI in 2021: 
 
 <img width="563" height="455" alt="histhd" src="https://github.com/user-attachments/assets/fe83e286-4d7a-4818-9bbb-53bb43379f05" />
 
-2. Life expectancy and health
+2. Life Expectancy and Health
 
 I looked at the trends of average life expectancy from 1990 and 2021. There was a dip in the last two years of the data set, which made me curious about if that was related to covid. I also looked and there was a consistent decline in life expectancy and a change in overall loss for those two years as well. My final visualization was the correlation between average life expectancy and overall loss, which ended up being a weak correlation. 
 
@@ -38,7 +38,7 @@ Here is the trend of average life expectancy over time:
 
 <img width="563" height="455" alt="image" src="https://github.com/user-attachments/assets/814323b5-3f57-4f6c-abca-75f931781ed7" />
 
-3. Education and income
+3. Education and Income
 
 For education and income, I first looked at the different regions and their average years of schooling. Here is that bar chart: 
 
@@ -48,13 +48,13 @@ Additionally, I also wanted to narrow down my search to see which countries had 
 
 <img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/be7e882c-8878-48ce-b889-b223e05f3e59" />
 
-4. Gender inequality and human development
+4. Gender Inequality and Human Development
 
 For my main graph in gender inequality, I made a bar chart that seperated male and females and their labor force participation per region. I also made a line chart of the gender inequality index throughout time. Here is that labor force bar chart: 
 
 <img width="1590" height="690" alt="image" src="https://github.com/user-attachments/assets/622361d8-74a6-451f-a18a-8874d00a9d30" />
 
-5. Environmental impact and sustainable development
+5. Environmental Impact and Sustainable Development
 
 My final analysis was on environmental impact and sustainable development. To do statistical analysis, I looked at what country had the worst carbon emissions per capita on average. After finding out that information, I wanted to see more. I made a bar chart of the top 15 countries that had the highest amount of carbon emissions per capita on average. Here is that bar chart: 
 
@@ -63,5 +63,7 @@ My final analysis was on environmental impact and sustainable development. To do
 Finally, I wanted to see the correlation between carbon emissions per capital and material footprint. The r value ended up being 0.64, which is a medium strength correlation. Here is that scatter plot:
 
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/4b015e65-6465-4068-b0d0-8fd0f4798aea" />
+
+CONCLUSION:
 
 I loved this dataset. Even though it was a huge one to start off with, it was really interesting to analyze. There are so many variables in this data set, so I could have made 100 more statistical analyses and graphs, but I didn't have the time. I love human development studies!
