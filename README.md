@@ -12,8 +12,12 @@ This was the most confusion and complex part of this project. The original Human
 
 DATA CLEANING
 
-Once I had the dataset I wanted to use, which was "hd", I cleaned that data. I made sure there was no duplicated values, and found that there were some missing values. While I could have imputed those missing values, I didn't think of doing that just yet. But once I looked at how many things were missing 
+Once I had the dataset I wanted to use, which was "hd", I cleaned that data. I made sure there was no duplicated values, and found that there were some missing values. While I could have imputed those missing values, I didn't think of doing that just yet. But once I looked at how many things were missing and decided which values I wanted to analyze and which were fine to leave alone. The variables with null values that I decided to fill with their medians were Inequality in education, Inequality in life expectancy, Material footprint per capita, Overall loss (%). I also looked and there were no duplicated values. 
+
+Something else I did to clean the data was to make a Region column to correlate with every country. This was helpful for me because there were so many countries listed in the data set that It would have made it hard to see patterns as a whole. Instead, I defined every country for a specific region. I made sure the data had no missing variables or duplicates. I was cleaned! I will be showing which countries were sorted and where they were sorted into, in my google document. 
 
 STATISTICAL ANALYSIS
+
+I did statistical analysis in the rest of my 
 
 DATA VIZUALIZATIONS
